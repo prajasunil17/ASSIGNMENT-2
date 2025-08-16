@@ -2,7 +2,7 @@
 
 **Task 1: Check if a Number is Even or Odd**
 
-For code review view / download a file named task1.py
+For code review view / download a file named `task1.py`
 
 1-First, we start with while True: which creates an infinite loop so the program keeps running until it is broken using break.
 
@@ -18,7 +18,7 @@ __________________________________________________________________________
 
 **Task 2: Sum of Integers from 1 to 50 Using a Loop**
 
-For code review view / download a file named task2.py
+For code review view / download a file named `task2.py`
 
 1- First, We create a variable with `0` value.
 
