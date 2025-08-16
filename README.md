@@ -18,6 +18,8 @@ __________________________________________________________________________
 
 **Task 2: Sum of Integers from 1 to 50 Using a Loop**
 
+For code review view / download a file named task2.py
+
 1- First, We create a variable with `0` value.
 
 2- Use a for loop to iterate from 1 to 50
